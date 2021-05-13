@@ -3,7 +3,7 @@ future
 captcha
 django-statici18n
 django-post_office~=3.3.0
-django-webpack_loader
+django-webpack_loader==0.7.0
 gunicorn
 mysqlclient
 django-picklefield~=2.1.1
